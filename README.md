@@ -1,5 +1,5 @@
 ## RunAsAdmin ##
-![Screenshot of RunAsAdmin]([https://github.com/richeaston/RunAsAdmin/blob/main/RunAsAdmin_App.png](https://github.com/richeaston/RunAsAdmin/blob/main/RunAsAdmin_App.png))
+![https://github.com/richeaston/RunAsAdmin/blob/main/RunAsAdmin_App.png](https://github.com/richeaston/RunAsAdmin/blob/main/RunAsAdmin_App.png)
 
 Run applications as another user, but with administrative rights
 
