@@ -1,0 +1,38 @@
+[
+    {
+        "name":  "CMD Prompt",
+        "path":  "C:\\Windows\\System32\\cmd.exe"
+    },
+    {
+        "name":  "Active Directory User and Computers",
+        "path":  "C:\\Windows\\System32\\dsa.msc"
+    },
+    {
+        "name":  "Group Policy",
+        "path":  "C:\\Windows\\System32\\gpedit.msc"
+    },
+    {
+        "name":  "MMC",
+        "path":  "C:\\Windows\\System32\\mmc.exe"
+    },
+    {
+        "name":  "Powershell iSE",
+        "path":  "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell_ise.exe"
+    },
+    {
+        "name":  "Powershell",
+        "path":  "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+    },
+    {
+        "name":  "PowerShell Studio",
+        "path":  "C:\\Program Files\\SAPIEN Technologies, Inc\\PowerShell Studio 2020\\PowerShell Studio.exe"
+    },
+    {
+        "name":  "Regedit",
+        "path":  "C:\\Windows\\regedit.exe"
+    },
+    {
+        "name":  "Taskmgr",
+        "path":  "C:\\Windows\\System32\\Taskmgr.exe"
+    }
+]
