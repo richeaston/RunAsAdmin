@@ -1,6 +1,6 @@
 ## RunAsAdmin ##
-[Darkmode](https://github.com/richeaston/RunAsAdmin/blob/main/RunAsAdmin_App_Dark.png)
-[Lightmode](https://github.com/richeaston/RunAsAdmin/blob/main/RunAsAdmin_App_Light.png)
+![Darkmode](https://github.com/richeaston/RunAsAdmin/blob/main/RunAsAdmin_App_Dark.png)
+![Lightmode](https://github.com/richeaston/RunAsAdmin/blob/main/RunAsAdmin_App_Light.png)
 
 
 Run applications as another user, but with administrative rights
