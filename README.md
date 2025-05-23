@@ -1,5 +1,5 @@
 ## RunAsAdmin ##
-![Darkmode](https://github.com/richeaston/RunAsAdmin/blob/main/RunAsAdmin_App_Dark v2.0.5.0.png)
+![Darkmode](https://github.com/richeaston/RunAsAdmin/blob/main/RunAsAdmin_App_Dark%20v2.0.5.0.png)
 ![Lightmode](https://github.com/richeaston/RunAsAdmin/blob/main/RunAsAdmin_App_Light v2.0.5.0.png)
 
 
